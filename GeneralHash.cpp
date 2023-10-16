@@ -1,9 +1,4 @@
-//
-//  GeneralHash.cpp
-//  AROMA
-//
-//  Created by yaoda on 2023/9/26.
-//
+
 
 #include "GeneralHash.hpp"
 
