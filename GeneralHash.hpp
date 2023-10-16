@@ -1,9 +1,4 @@
-//
-//  GeneralHash.hpp
-//  AROMA
-//
-//  Created by yaoda on 2023/9/26.
-//
+
 
 #ifndef GeneralHash_hpp
 #define GeneralHash_hpp
